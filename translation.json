@@ -1,0 +1,35 @@
+{
+    "Banner_Home":"Home",
+    "Banner_About":"About Akwad",
+    "Banner_Service":"Services",
+    "Banner_Projects":"Projects",
+    "Banner_request":"Request Now",
+
+    "Quote1":"My primary goal is to be an exemplary and leading nation in all aspects, and I will work with you in achieving this endeavor.",
+    "Quote2":"Our real wealth lies in the ambition of our people and the potential of our younger generation.",
+
+    "Main_title":"Welcome to the future with us!",
+    "Main_txt":"It's your opportunity to embrace the future with cutting-edge global technologies. We're here to offer top-notch technical services and solutions that keep you in sync with the latest technological advancements. Our mission is to simplify your journey and enhance your life, fostering efficiency and growth. Join us on this exciting journey and be a part of Vision 2030.",
+    "Main_btn":"Know more",
+
+    "WhoAreWe_title":"Who Are We?",
+    "WhoAreWe_txt":"We are Akwad! A specialized company dedicated to crafting innovative technical solutions and offering services aimed at enhancing various aspects of your life. From your smartphone to your workplace, our mission is to modernize and streamline your daily tasks. Our extensive range of services is geared towards keeping you well-informed about the latest global advancements, ultimately saving you time and effort through the application of technology with our expertise.",
+    "WhoAreWe_btn":"Explore our services",
+
+    "Service_title":"Discover Our Services",
+    "Service1_txt":"Web solutions",
+    "Service2_txt":"Mobile App solutions",
+    "Service3_txt":"AI Solutions",
+    "Service4_txt":"Specified Service For You",
+    "Sercice_btn":"Get Details",
+
+    "Projects_title":"Explore Our Projects",
+    "Projects1_txt":"Delivery Mobile App",
+    "Projects2_txt":"Website for Recycle Bank",
+    "Projects3_txt":"Website for Neopetra",
+
+    "Partners_title":"Meet Our Partners",
+    
+    "Footer_title":"Any  Questions?",
+    "Footer_txt":"Don't Hesitate to Contact Us!"
+}
