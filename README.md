@@ -10,4 +10,4 @@ Open Any of them and you'll find the content formatted in keys and their values
 
 If you wanna ask for your website content
 Contact me at Mena08800@gmail.com
-or ['LinkedIn'](https://www.linkedin.com/in/menna-omran/)
+or [LinkedIn](https://www.linkedin.com/in/menna-omran/)
